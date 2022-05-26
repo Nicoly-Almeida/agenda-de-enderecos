@@ -1,0 +1,82 @@
+.titulo{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.subtitulo{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.nav{
+    background-color: #9206E9 !important;
+    height: 80px !important;
+    box-shadow: 0px !important;
+}
+
+.logo{
+    margin-top: 13px;
+}
+
+.toolbar-title {
+    box-sizing: border-box;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 16px;
+    padding-right: 131px;
+    margin-top: 13px;
+    margin-left: 24px;
+}
+
+
+.margem{
+    margin-top: 13px;
+}
+
+.icon_lateral{
+    margin-top: 40px;
+    width: 33px;
+    height: 33px;
+}
+
+.ajuste{
+    background: #20272C;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.input{
+    border: 2px solid #BBC4CE;
+    border-radius: 10px;
+    padding: 15px;
+    width: 292px !important;
+}
+
+.botoes_primarios{
+    background-color: #B600EE !important;
+    border-radius: 8px;
+    height: 51px !important;
+    width: 292px !important;
+}
+
+.text_botoes{
+    color: white;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: none;
+}
+
+.icon{
+    padding-right: 13px;
+}
+
+
